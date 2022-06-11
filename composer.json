@@ -1,0 +1,17 @@
+{
+    "name": "abc/phpmvc-framework",
+    "authors": [
+        {
+            "name": "Leviet1612",
+            "email": "lvviet.18it5@vku.udn.vn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "."
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
